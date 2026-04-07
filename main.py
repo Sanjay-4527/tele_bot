@@ -59,7 +59,7 @@ https://t.me/+O8q7pFuEWndjYTA9
 https://t.me/+IYnf5vafrsY3YWU1
 
 Proof channel 
-https://t.me/+lAWSs3CQkB8zNDhh"""
+https://t.me/+YUCA8ZnKpug3NWFl"""
 
 
 async def reply_vip(update: Update, context: ContextTypes.DEFAULT_TYPE):
