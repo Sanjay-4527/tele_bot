@@ -7,7 +7,7 @@ from telegram.ext import (
     ChatJoinRequestHandler,
     filters,
 )
-TELEGRAM_TOKEN = 8624261358:AAGSXl3umzAbEOCP4NOqB3jxSqxMCmvorEA
+TELEGRAM_TOKEN = "8624261358:AAGSXl3umzAbEOCP4NOqB3jxSqxMCmvorEA"
 TOKEN = os.getenv("TELEGRAM_TOKEN")
 if not TOKEN:
     raise ValueError(
