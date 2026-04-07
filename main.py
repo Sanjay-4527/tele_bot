@@ -7,7 +7,7 @@ from telegram.ext import (
     ChatJoinRequestHandler,
     filters,
 )
-
+TELEGRAM_TOKEN = 8624261358:AAGSXl3umzAbEOCP4NOqB3jxSqxMCmvorEA
 TOKEN = os.getenv("TELEGRAM_TOKEN")
 if not TOKEN:
     raise ValueError(
@@ -15,12 +15,11 @@ if not TOKEN:
     )
 
 CHANNEL_IDS = [
-    -1003756496817,
-    -1003893970181,
-    -1003682096987,
-    -1003843753081,
-    -1003854575520,
-    -1003798176026,
+    -1003302750223,
+    -1003837639131,
+    -1003888372068,
+    -1003879762999,
+    -1003597042634,
 ]
 
 VIP_MESSAGE = """🔞Special VIP Membership💙👑
